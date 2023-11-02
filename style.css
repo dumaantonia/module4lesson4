@@ -1,0 +1,24 @@
+
+
+body {
+    font-family: sans-serif;
+}
+header {
+background-color: lightblue;
+}
+h1{
+    color:darkblue;
+    text-align: ;
+}
+footer p{
+   background-color: pink;
+    border:1px solid blue;
+}
+.u1{
+    background-color:greenyellow;
+    border: greenyellow;
+}
+.ushtrim2{
+    font-size: 20px;
+    color: blue;
+}
